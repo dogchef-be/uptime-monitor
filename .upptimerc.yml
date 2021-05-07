@@ -28,6 +28,12 @@ status-website:
       href: /
   # - title: GitHub
   #   href: https://github.com/$OWNER/$REPO
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+
+status-page:
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
