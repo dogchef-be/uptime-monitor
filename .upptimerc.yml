@@ -5,6 +5,22 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Dogchef
     url: https://www.dogchef.com
+  - name: Dogpit
+    url: $DOGPIT_URL
+  - name: Dogpit-tasks
+    url: $DOGPIT_TASKS_URL
+  - name: Catchef
+    url: $CATCHEF_URL
+  - name: Cheapmeat
+    url: $CHEAPMEAT_URL
+  - name: Dogocook
+    url: $DOGOCOOK_URL
+  - name: Dogocook (Forum)
+    url: $DOGOCOOK_FORUM_URL
+  - name: Dogchef partners
+    url: $DOGCHEF_PARTNERS_URL
+  - name: Vetchef (BE)
+    url: $VETCHEF_BE_URL
   - name: Dogchef (BE)
     url: https://www.dogchef.be
   - name: Dogchef (FR)
