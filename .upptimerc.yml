@@ -5,6 +5,8 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Dogchef
     url: https://www.dogchef.com
+  - name: Dogchef (API)
+    url: $DOGCHEF_API_URL
   - name: Dogpit
     url: $DOGPIT_URL
   - name: Dogpit-tasks
