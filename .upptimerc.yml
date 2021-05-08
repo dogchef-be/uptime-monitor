@@ -13,6 +13,8 @@ sites:
     url: https://www.dogchef.com/en/start
   - name: Dogchef (API)
     url: $DOGCHEF_API_URL
+  - name: Dogchef partners
+    url: $DOGCHEF_PARTNERS_URL
   - name: Dogpit
     url: $DOGPIT_URL
   - name: Dogpit-tasks
@@ -25,10 +27,12 @@ sites:
     url: $DOGOCOOK_URL
   - name: Dogocook (Forum)
     url: $DOGOCOOK_FORUM_URL
-  - name: Dogchef partners
-    url: $DOGCHEF_PARTNERS_URL
   - name: Vetchef (BE)
     url: $VETCHEF_BE_URL
+  - name: Vetchef (FR)
+    url: $VETCHEF_FR_URL
+  - name: Vetchef (LU)
+    url: $VETCHEF_LU_URL
   - name: Dogchef (BE)
     url: https://www.dogchef.be
   - name: Dogchef (FR)
