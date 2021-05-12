@@ -79,18 +79,20 @@
     "url": "$DOGCHEF_PARTNERS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogchef-partners",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1341,
     "timeDay": 1417,
     "timeWeek": 1341,
     "timeMonth": 1341,
     "timeYear": 1341,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-12": 5
+    }
   },
   {
     "name": "Dogpit",
@@ -116,11 +118,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogpit-tasks",
     "status": "up",
-    "uptime": "81.52%",
+    "uptime": "81.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.52%",
-    "uptimeMonth": "81.52%",
-    "uptimeYear": "81.52%",
+    "uptimeWeek": "81.61%",
+    "uptimeMonth": "81.61%",
+    "uptimeYear": "81.61%",
     "time": 409,
     "timeDay": 487,
     "timeWeek": 409,
@@ -208,45 +210,49 @@
     "url": "$VETCHEF_BE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vetchef-be",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 2006,
     "timeDay": 2495,
     "timeWeek": 2006,
     "timeMonth": 2006,
     "timeYear": 2006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-12": 3
+    }
   },
   {
     "name": "Vetchef (FR)",
     "url": "$VETCHEF_FR_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vetchef-fr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1818,
     "timeDay": 1786,
     "timeWeek": 1818,
     "timeMonth": 1818,
     "timeYear": 1818,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-12": 2
+    }
   },
   {
     "name": "Vetchef (LU)",
     "url": "$VETCHEF_LU_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vetchef-lu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -255,7 +261,9 @@
     "timeWeek": 1841,
     "timeMonth": 1841,
     "timeYear": 1841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-12": 0
+    }
   },
   {
     "name": "Dogchef (BE)",
