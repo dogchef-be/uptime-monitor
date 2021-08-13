@@ -256,9 +256,9 @@
     "url": "$VETCHEF_BE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vetchef-be",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -268,6 +268,7 @@
     "timeMonth": 2020,
     "timeYear": 2163,
     "dailyMinutesDown": {
+      "2021-08-13": 0,
       "2021-05-12": 13
     }
   },
