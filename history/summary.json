@@ -202,19 +202,19 @@
     "url": "$CHEAPMEAT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cheapmeat",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1076,
-    "timeDay": 1312,
-    "timeWeek": 967,
-    "timeMonth": 1041,
-    "timeYear": 1076,
+    "time": 1237,
+    "timeDay": 9876,
+    "timeWeek": 3151,
+    "timeMonth": 1585,
+    "timeYear": 1237,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 6
     }
   },
   {
