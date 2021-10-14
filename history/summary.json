@@ -234,18 +234,20 @@
     "url": "$DOGOCOOK_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogocook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1477,
-    "timeDay": 1369,
-    "timeWeek": 1419,
-    "timeMonth": 1393,
-    "timeYear": 1477,
-    "dailyMinutesDown": {}
+    "time": 1470,
+    "timeDay": 843,
+    "timeWeek": 1282,
+    "timeMonth": 1359,
+    "timeYear": 1470,
+    "dailyMinutesDown": {
+      "2021-10-14": 0
+    }
   },
   {
     "name": "Dogocook (Forum)",
