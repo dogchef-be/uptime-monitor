@@ -4,9 +4,9 @@
     "url": "https://www.dogchef.com",
     "icon": "https://favicons.githubusercontent.com/www.dogchef.com",
     "slug": "dogchef",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 221,
     "timeMonth": 217,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-12": 0
+    }
   },
   {
     "name": "Dogchef (My account)",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/www.dogchef.com",
     "slug": "dogchef-my-account",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 716,
     "timeDay": 224,
     "timeWeek": 275,
@@ -35,8 +37,6 @@
     "timeYear": 716,
     "dailyMinutesDown": {
       "2021-09-17": 100,
-      "2021-07-08": 15,
-      "2021-07-07": 5,
       "2021-07-06": 5,
       "2021-07-05": 10,
       "2021-07-04": 24,
