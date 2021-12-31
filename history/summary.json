@@ -198,18 +198,20 @@
     "url": "$DOGOCOOK_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogocook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1475,
     "timeDay": 1271,
     "timeWeek": 1331,
     "timeMonth": 1398,
     "timeYear": 1475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-31": 3
+    }
   },
   {
     "name": "Dogocook (Forum)",
@@ -236,10 +238,10 @@
     "url": "$VETCHEF_BE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vetchef-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1851,
@@ -248,6 +250,7 @@
     "timeMonth": 1598,
     "timeYear": 1851,
     "dailyMinutesDown": {
+      "2021-12-31": 2,
       "2021-05-12": 13
     }
   },
@@ -276,9 +279,9 @@
     "url": "$VETCHEF_LU_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vetchef-lu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -288,6 +291,7 @@
     "timeMonth": 1694,
     "timeYear": 1857,
     "dailyMinutesDown": {
+      "2021-12-31": 0,
       "2021-05-12": 6
     }
   },
