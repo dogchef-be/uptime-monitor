@@ -295,19 +295,19 @@
     "url": "https://www.dogchef.be",
     "icon": "https://favicons.githubusercontent.com/www.dogchef.be",
     "slug": "dogchef-be",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 405,
-    "timeWeek": 281,
+    "timeDay": 335,
+    "timeWeek": 279,
     "timeMonth": 274,
     "timeYear": 286,
     "dailyMinutesDown": {
-      "2022-02-07": 1
+      "2022-02-07": 10
     }
   },
   {
