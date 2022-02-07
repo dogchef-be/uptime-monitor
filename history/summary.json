@@ -295,10 +295,10 @@
     "url": "https://www.dogchef.be",
     "icon": "https://favicons.githubusercontent.com/www.dogchef.be",
     "slug": "dogchef-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
@@ -306,7 +306,9 @@
     "timeWeek": 281,
     "timeMonth": 274,
     "timeYear": 286,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-07": 1
+    }
   },
   {
     "name": "Dogchef (FR)",
