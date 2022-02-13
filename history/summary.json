@@ -197,9 +197,9 @@
     "url": "$DOGOCOOK_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogocook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,7 +208,9 @@
     "timeWeek": 1529,
     "timeMonth": 1413,
     "timeYear": 1466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "Dogocook (Forum)",
