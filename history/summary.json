@@ -95,9 +95,9 @@
     "url": "$DOGCHEF_PARTNERS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogchef-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -107,6 +107,7 @@
     "timeMonth": 1258,
     "timeYear": 1312,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2021-09-17": 99,
       "2021-05-14": 10,
       "2021-05-12": 39
