@@ -35,14 +35,6 @@ sites:
     url: $VETCHEF_FR_URL
   - name: Vetchef (LU)
     url: $VETCHEF_LU_URL
-  - name: Dogchef (BE)
-    url: https://www.dogchef.be
-  - name: Dogchef (FR)
-    url: https://www.dogchef.fr
-  - name: Dogchef (LU)
-    url: https://www.dogchef.lu
-  - name: Dogchef (NL)
-    url: https://www.dogchef.nl
 
 status-website:
   baseUrl: /uptime-monitor
