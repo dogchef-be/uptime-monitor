@@ -1,7 +1,7 @@
 url: $DOGPIT_TASKS_URL
-status: down
-code: 500
-responseTime: 356
-lastUpdated: 2022-05-04T16:56:16.597Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2022-05-04T17:09:46.226Z
 startTime: Fri May 07 2021 10:48:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
