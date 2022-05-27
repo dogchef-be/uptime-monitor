@@ -66,19 +66,19 @@
     "url": "$DOGCHEF_API_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogchef-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 561,
-    "timeDay": 280,
-    "timeWeek": 525,
-    "timeMonth": 560,
-    "timeYear": 552,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "91.36%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.98%",
+    "time": 562,
+    "timeDay": 499,
+    "timeWeek": 571,
+    "timeMonth": 572,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-05-27": 0
+      "2022-05-27": 124
     }
   },
   {
