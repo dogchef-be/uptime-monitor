@@ -4,19 +4,19 @@
     "url": "https://www.dogchef.com?$BF",
     "icon": "https://favicons.githubusercontent.com/www.dogchef.com",
     "slug": "dogchef",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 176,
-    "timeWeek": 275,
-    "timeMonth": 292,
-    "timeYear": 229,
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 293,
+    "timeMonth": 298,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-06-06": 16
+      "2022-06-06": 20
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.dogchef.com/en/account?$BF",
     "icon": "https://favicons.githubusercontent.com/www.dogchef.com",
     "slug": "dogchef-my-account",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 518,
-    "timeDay": 72,
-    "timeWeek": 201,
-    "timeMonth": 277,
-    "timeYear": 475,
+    "time": 517,
+    "timeDay": 120,
+    "timeWeek": 214,
+    "timeMonth": 279,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2022-06-06": 16,
+      "2022-06-06": 20,
       "2021-06-15": 19
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://www.dogchef.com/en/start?$BF",
     "icon": "https://favicons.githubusercontent.com/www.dogchef.com",
     "slug": "dogchef-signup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 49,
-    "timeWeek": 170,
-    "timeMonth": 213,
+    "timeDay": 98,
+    "timeWeek": 184,
+    "timeMonth": 216,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2022-06-06": 16
+      "2022-06-06": 20
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$DOGCHEF_API_URL?$BF",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogchef-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.68%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
-    "time": 559,
-    "timeDay": 133,
-    "timeWeek": 377,
-    "timeMonth": 545,
-    "timeYear": 552,
+    "time": 560,
+    "timeDay": 265,
+    "timeWeek": 423,
+    "timeMonth": 555,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2022-06-06": 16,
+      "2022-06-06": 20,
       "2022-05-27": 124
     }
   },
@@ -108,9 +108,9 @@
     "slug": "erp",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
     "time": 487,
     "timeDay": 191,
@@ -118,7 +118,7 @@
     "timeMonth": 530,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2022-06-06": 28,
+      "2022-06-06": 31,
       "2022-04-04": 90
     }
   },
@@ -129,8 +129,8 @@
     "slug": "dogpit",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 591,
@@ -139,7 +139,7 @@
     "timeMonth": 635,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-06-06": 2,
+      "2022-06-06": 6,
       "2022-03-28": 60
     }
   },
@@ -150,9 +150,9 @@
     "slug": "dogpit-tasks",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 473,
     "timeDay": 195,
@@ -160,7 +160,7 @@
     "timeMonth": 490,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2022-06-06": 28,
+      "2022-06-06": 31,
       "2022-04-27": 22,
       "2021-07-19": 73
     }
@@ -226,8 +226,8 @@
     "slug": "dogocook-forum",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 448,
@@ -236,7 +236,7 @@
     "timeMonth": 519,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2022-06-06": 2,
+      "2022-06-06": 6,
       "2021-09-08": 219
     }
   },
