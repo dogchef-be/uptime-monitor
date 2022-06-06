@@ -8,33 +8,33 @@ sites:
   - name: Dogchef
     url: https://www.dogchef.com?${{ $BF }}
   - name: Dogchef (My account)
-    url: https://www.dogchef.com/en/account
+    url: https://www.dogchef.com/en/account?${{ $BF }}
   - name: Dogchef (Signup)
-    url: https://www.dogchef.com/en/start
+    url: https://www.dogchef.com/en/start?${{ $BF }}
   - name: Dogchef (API)
-    url: $DOGCHEF_API_URL
+    url: $DOGCHEF_API_URL?${{ $BF }}
   - name: Dogchef partners
-    url: $DOGCHEF_PARTNERS_URL
+    url: $DOGCHEF_PARTNERS_URL?${{ $BF }}
   - name: ERP
-    url: $ERP_URL
+    url: $ERP_URL?${{ $BF }}
   - name: Dogpit
-    url: $DOGPIT_URL
+    url: $DOGPIT_URL?${{ $BF }}
   - name: Dogpit-tasks
-    url: $DOGPIT_TASKS_URL
+    url: $DOGPIT_TASKS_URL?${{ $BF }}
   - name: Catchef
-    url: $CATCHEF_URL
+    url: $CATCHEF_URL?${{ $BF }}
   - name: Cheapmeat
-    url: $CHEAPMEAT_URL
+    url: $CHEAPMEAT_URL?${{ $BF }}
   - name: Dogocook
-    url: $DOGOCOOK_URL
+    url: $DOGOCOOK_URL?${{ $BF }}
   - name: Dogocook (Forum)
-    url: $DOGOCOOK_FORUM_URL
+    url: $DOGOCOOK_FORUM_URL?${{ $BF }}
   - name: Vetchef (BE)
-    url: $VETCHEF_BE_URL
+    url: $VETCHEF_BE_URL?${{ $BF }}
   - name: Vetchef (FR)
-    url: $VETCHEF_FR_URL
+    url: $VETCHEF_FR_URL?${{ $BF }}
   - name: Vetchef (LU)
-    url: $VETCHEF_LU_URL
+    url: $VETCHEF_LU_URL?${{ $BF }}
 
 status-website:
   baseUrl: /uptime-monitor
