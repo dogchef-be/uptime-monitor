@@ -6,7 +6,7 @@ repo: uptime-monitor # The name of this repository
 
 sites:
   - name: Dogchef
-    url: https://www.dogchef.com?$BF
+    url: https://www.dogchef.com?${{ $BF }}
   - name: Dogchef (My account)
     url: https://www.dogchef.com/en/account
   - name: Dogchef (Signup)
