@@ -126,10 +126,10 @@
     "url": "$DOGPIT_URL?$BF",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogpit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 590,
@@ -138,6 +138,7 @@
     "timeMonth": 624,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2022-06-20": 1,
       "2022-06-06": 6,
       "2022-03-28": 60
     }
