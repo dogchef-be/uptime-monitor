@@ -4,11 +4,11 @@
     "url": "https://www.dogchef.com?$BF",
     "icon": "https://favicons.githubusercontent.com/www.dogchef.com",
     "slug": "dogchef",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 230,
     "timeDay": 119,
@@ -16,7 +16,7 @@
     "timeMonth": 283,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2022-06-21": 11,
+      "2022-06-21": 0,
       "2022-06-06": 150
     }
   },
@@ -91,9 +91,9 @@
     "slug": "dogchef-partners",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1309,
     "timeDay": 655,
@@ -101,7 +101,7 @@
     "timeMonth": 1341,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2022-06-21": 26,
+      "2022-06-21": 34,
       "2022-04-29": 20
     }
   },
@@ -176,18 +176,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "catchef",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 586,
     "timeDay": 757,
     "timeWeek": 681,
     "timeMonth": 714,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 34
     }
   },
   {
@@ -196,18 +196,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cheapmeat",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1107,
     "timeDay": 631,
     "timeWeek": 1095,
     "timeMonth": 1158,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 34
     }
   },
   {
@@ -216,18 +216,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dogocook",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1472,
     "timeDay": 757,
     "timeWeek": 1199,
     "timeMonth": 1528,
     "timeYear": 1459,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 34
     }
   },
   {
@@ -257,17 +257,17 @@
     "slug": "vetchef-be",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1800,
     "timeDay": 806,
     "timeWeek": 1426,
     "timeMonth": 1676,
     "timeYear": 1741,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 33
     }
   },
   {
@@ -277,17 +277,17 @@
     "slug": "vetchef-fr",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1805,
     "timeDay": 871,
     "timeWeek": 1633,
     "timeMonth": 1833,
     "timeYear": 1735,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 33
     }
   },
   {
@@ -297,17 +297,17 @@
     "slug": "vetchef-lu",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 1838,
     "timeDay": 1054,
     "timeWeek": 1480,
     "timeMonth": 1840,
     "timeYear": 1838,
     "dailyMinutesDown": {
-      "2022-06-21": 25
+      "2022-06-21": 33
     }
   }
 ]
