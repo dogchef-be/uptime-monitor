@@ -7,34 +7,64 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Dogchef
     url: https://www.dogchef.com?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogchef (My account)
     url: https://www.dogchef.com/en/account?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogchef (Signup)
     url: https://www.dogchef.com/en/start?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogchef (API)
     url: $DOGCHEF_API_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogchef partners
     url: $DOGCHEF_PARTNERS_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: ERP
     url: $ERP_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogpit
     url: $DOGPIT_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogpit-tasks
     url: $DOGPIT_TASKS_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Catchef
     url: $CATCHEF_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Cheapmeat
     url: $CHEAPMEAT_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogocook
     url: $DOGOCOOK_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Dogocook (Forum)
     url: $DOGOCOOK_FORUM_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Vetchef (BE)
     url: $VETCHEF_BE_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Vetchef (FR)
     url: $VETCHEF_FR_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Vetchef (LU)
     url: $VETCHEF_LU_URL?$BF
+    headers:
+      - $USER_AGENT
 
 status-website:
   baseUrl: /uptime-monitor
