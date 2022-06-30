@@ -3,6 +3,7 @@
 
 owner: dogchef-be # Your GitHub organization or username, where this repository lives
 repo: uptime-monitor # The name of this repository
+user-agent: dogchef-be
 
 sites:
   - name: Dogchef
