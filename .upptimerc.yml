@@ -42,14 +42,6 @@ sites:
     url: $CATCHEF_URL?$BF
     headers:
       - $USER_AGENT
-  - name: Cheapmeat
-    url: $CHEAPMEAT_URL?$BF
-    headers:
-      - $USER_AGENT
-  - name: Dogocook
-    url: $DOGOCOOK_URL?$BF
-    headers:
-      - $USER_AGENT
   - name: Dogocook (Forum)
     url: $DOGOCOOK_FORUM_URL?$BF
     headers:
