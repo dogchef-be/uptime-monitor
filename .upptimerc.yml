@@ -42,10 +42,10 @@ sites:
     url: $CATCHEF_URL?$BF
     headers:
       - $USER_AGENT
-   - name: Dogocook
-     url: $DOGOCOOK_URL?$BF
-     headers:
-       - $USER_AGENT
+  - name: Dogocook
+    url: $DOGOCOOK_URL?$BF
+    headers:
+      - $USER_AGENT
   - name: Vetchef (BE)
     url: $VETCHEF_BE_URL?$BF
     headers:
