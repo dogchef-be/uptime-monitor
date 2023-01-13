@@ -1,7 +1,7 @@
 url: $ERP_URL?$BF
 status: down
 code: 503
-responseTime: 146
-lastUpdated: 2023-01-12T23:04:25.471Z
+responseTime: 50
+lastUpdated: 2023-01-13T23:04:10.116Z
 startTime: Mon Apr 04 2022 12:04:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
