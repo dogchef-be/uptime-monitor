@@ -1,7 +1,7 @@
 url: $DOGPIT_TASKS_URL?$BF
 status: down
 code: 403
-responseTime: 107
-lastUpdated: 2023-03-17T23:04:08.401Z
+responseTime: 86
+lastUpdated: 2023-03-18T23:04:10.922Z
 startTime: Fri May 07 2021 10:48:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
