@@ -139,9 +139,9 @@
     "url": "$DOGPIT_TASKS_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dogpit-tasks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,7 +150,9 @@
     "timeWeek": 427,
     "timeMonth": 266,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Catchef",
@@ -158,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "catchef",
     "status": "up",
-    "uptime": "84.27%",
+    "uptime": "84.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
