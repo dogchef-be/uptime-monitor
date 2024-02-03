@@ -4,18 +4,19 @@
     "url": "https://www.dogchef.com?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/www.dogchef.com.ico",
     "slug": "dogchef",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "98.53%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1342,
+    "time": 1343,
     "timeDay": 1763,
     "timeWeek": 1492,
     "timeMonth": 1632,
     "timeYear": 1276,
     "dailyMinutesDown": {
+      "2024-02-03": 0,
       "2024-02-02": 21,
       "2023-08-09": 24
     }
@@ -147,7 +148,7 @@
     "time": 136,
     "timeDay": 375,
     "timeWeek": 439,
-    "timeMonth": 474,
+    "timeMonth": 472,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
