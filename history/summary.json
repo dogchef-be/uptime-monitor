@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.93%",
-    "time": 1412,
-    "timeDay": 1439,
-    "timeWeek": 1472,
-    "timeMonth": 1784,
-    "timeYear": 1593,
+    "time": 1415,
+    "timeDay": 1544,
+    "timeWeek": 1455,
+    "timeMonth": 1812,
+    "timeYear": 1596,
     "dailyMinutesDown": {
       "2024-05-11": 22,
       "2024-05-04": 93,
@@ -40,10 +40,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 262,
-    "timeDay": 243,
-    "timeWeek": 271,
-    "timeMonth": 274,
-    "timeYear": 264,
+    "timeDay": 203,
+    "timeWeek": 252,
+    "timeMonth": 270,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2024-03-14": 31
     }
@@ -60,10 +60,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 216,
-    "timeWeek": 259,
-    "timeMonth": 253,
-    "timeYear": 241,
+    "timeDay": 202,
+    "timeWeek": 244,
+    "timeMonth": 249,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2024-03-14": 30
     }
@@ -80,9 +80,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 490,
-    "timeDay": 358,
-    "timeWeek": 440,
-    "timeMonth": 440,
+    "timeDay": 590,
+    "timeWeek": 449,
+    "timeMonth": 442,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2024-03-14": 28
@@ -99,10 +99,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1114,
-    "timeDay": 960,
-    "timeWeek": 1104,
-    "timeMonth": 1096,
+    "time": 1113,
+    "timeDay": 1040,
+    "timeWeek": 1056,
+    "timeMonth": 1088,
     "timeYear": 1081,
     "dailyMinutesDown": {}
   },
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 461,
-    "timeWeek": 528,
-    "timeMonth": 509,
-    "timeYear": 273,
+    "time": 229,
+    "timeDay": 480,
+    "timeWeek": 504,
+    "timeMonth": 505,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -136,10 +136,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 398,
-    "timeWeek": 531,
-    "timeMonth": 527,
-    "timeYear": 538,
+    "timeDay": 368,
+    "timeWeek": 496,
+    "timeMonth": 519,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2023-09-27": 26
     }
@@ -151,17 +151,16 @@
     "slug": "dogpit-tasks",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 212,
-    "timeDay": 487,
-    "timeWeek": 510,
-    "timeMonth": 493,
-    "timeYear": 273,
+    "time": 213,
+    "timeDay": 461,
+    "timeWeek": 485,
+    "timeMonth": 487,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-05-29": 5,
       "2024-05-22": 24,
       "2024-02-29": 16
     }
@@ -176,12 +175,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.40%",
-    "time": 902,
-    "timeDay": 1399,
-    "timeWeek": 1434,
-    "timeMonth": 1345,
-    "timeYear": 937,
+    "uptimeYear": "74.42%",
+    "time": 905,
+    "timeDay": 1707,
+    "timeWeek": 1459,
+    "timeMonth": 1395,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2024-03-25": 20,
       "2023-08-31": 517,
@@ -275,8 +274,7 @@
       "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
-      "2023-06-01": 1440,
-      "2023-05-31": 1440
+      "2023-06-01": 1440
     }
   },
   {
@@ -291,16 +289,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
     "time": 1126,
-    "timeDay": 921,
-    "timeWeek": 1094,
-    "timeMonth": 1104,
-    "timeYear": 1143,
+    "timeDay": 981,
+    "timeWeek": 1047,
+    "timeMonth": 1096,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2023-08-23": 17,
       "2023-08-18": 533,
       "2023-07-26": 20,
-      "2023-06-01": 929,
-      "2023-05-31": 994
+      "2023-06-01": 929
     }
   },
   {
@@ -314,14 +311,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1333,
-    "timeDay": 1051,
-    "timeWeek": 1278,
-    "timeMonth": 1282,
-    "timeYear": 1337,
+    "time": 1332,
+    "timeDay": 1067,
+    "timeWeek": 1214,
+    "timeMonth": 1267,
+    "timeYear": 1336,
     "dailyMinutesDown": {
-      "2023-11-08": 20,
-      "2023-05-31": 108
+      "2023-11-08": 20
     }
   },
   {
@@ -336,13 +332,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1363,
-    "timeDay": 1087,
-    "timeWeek": 1237,
-    "timeMonth": 1260,
-    "timeYear": 1385,
-    "dailyMinutesDown": {
-      "2023-05-31": 91
-    }
+    "timeDay": 1076,
+    "timeWeek": 1177,
+    "timeMonth": 1251,
+    "timeYear": 1384,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vetchef (LU)",
@@ -355,13 +349,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1293,
-    "timeDay": 1155,
-    "timeWeek": 1415,
-    "timeMonth": 1303,
-    "timeYear": 1290,
-    "dailyMinutesDown": {
-      "2023-05-31": 31
-    }
+    "time": 1292,
+    "timeDay": 1083,
+    "timeWeek": 1352,
+    "timeMonth": 1292,
+    "timeYear": 1289,
+    "dailyMinutesDown": {}
   }
 ]
