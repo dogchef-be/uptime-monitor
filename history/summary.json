@@ -243,9 +243,9 @@
     "slug": "vetchef-fr",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1406,
     "timeDay": 1111,
@@ -253,7 +253,6 @@
     "timeMonth": 1314,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2024-09-16": 8,
       "2024-07-27": 215
     }
   },
@@ -262,9 +261,9 @@
     "url": "$VETCHEF_LU_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vetchef-lu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -274,6 +273,7 @@
     "timeMonth": 1364,
     "timeYear": 1249,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-07-27": 215
     }
   }
