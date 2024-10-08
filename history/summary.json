@@ -102,11 +102,11 @@
     "url": "$DOGCHEF_PARTNERS_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dogchef-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1086,
     "timeDay": 2333,
@@ -114,7 +114,7 @@
     "timeMonth": 1231,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2024-10-08": 8,
+      "2024-10-08": 0,
       "2024-07-27": 223
     }
   },
