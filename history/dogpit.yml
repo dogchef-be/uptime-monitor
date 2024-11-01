@@ -1,7 +1,7 @@
 url: $DOGPIT_URL?$BF
-status: down
-code: 500
-responseTime: 875
-lastUpdated: 2024-11-01T14:47:17.508Z
+status: up
+code: 200
+responseTime: 742
+lastUpdated: 2024-11-01T15:08:16.485Z
 startTime: 2021-05-07T10:48:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
