@@ -1,7 +1,7 @@
 url: $CATCHEF_URL?$BF
-status: up
-code: 200
-responseTime: 123
-lastUpdated: 2024-11-13T17:42:07.105Z
+status: down
+code: 500
+responseTime: 691
+lastUpdated: 2024-11-13T18:00:42.136Z
 startTime: 2021-05-07T10:48:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
