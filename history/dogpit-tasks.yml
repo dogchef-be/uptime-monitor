@@ -1,7 +1,7 @@
 url: $DOGPIT_TASKS_URL?$BF
 status: up
 code: 200
-responseTime: 605
-lastUpdated: 2024-12-24T23:04:19.747Z
+responseTime: 304
+lastUpdated: 2024-12-25T23:04:34.209Z
 startTime: 2021-05-07T10:48:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
