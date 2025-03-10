@@ -119,19 +119,19 @@
     "url": "$ERP_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "erp",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 460,
-    "timeWeek": 512,
+    "time": 491,
+    "timeDay": 485,
+    "timeWeek": 515,
     "timeMonth": 525,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-03-10": 0
+      "2025-03-10": 17
     }
   },
   {
