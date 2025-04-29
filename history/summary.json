@@ -227,9 +227,9 @@
     "slug": "vetchef-be",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 1302,
     "timeDay": 925,
@@ -237,7 +237,8 @@
     "timeMonth": 1293,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2025-04-28": 0,
+      "2025-04-29": 6,
+      "2025-04-28": 2,
       "2024-07-27": 215
     }
   },
@@ -268,9 +269,9 @@
     "slug": "vetchef-lu",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1234,
     "timeDay": 951,
@@ -278,7 +279,6 @@
     "timeMonth": 1199,
     "timeYear": 1245,
     "dailyMinutesDown": {
-      "2025-04-28": 6,
       "2024-07-27": 215
     }
   }
