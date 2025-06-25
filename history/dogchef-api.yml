@@ -1,7 +1,7 @@
 url: $DOGCHEF_API_URL?$BF
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2025-06-24T23:05:04.125Z
+status: down
+code: 500
+responseTime: 29356
+lastUpdated: 2025-06-25T11:07:00.134Z
 startTime: 2021-05-08T09:08:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
