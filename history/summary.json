@@ -236,9 +236,9 @@
     "url": "$VETCHEF_FR_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vetchef-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -247,7 +247,9 @@
     "timeWeek": 1236,
     "timeMonth": 1205,
     "timeYear": 1199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 1
+    }
   },
   {
     "name": "Vetchef (LU)",
