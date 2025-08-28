@@ -14,7 +14,7 @@
     "timeDay": 504,
     "timeWeek": 499,
     "timeMonth": 348,
-    "timeYear": 437,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2025-05-22": 262,
       "2024-10-01": 575,
@@ -197,18 +197,20 @@
     "url": "$DOGOCOOK_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dogocook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1091,
     "timeDay": 1292,
     "timeWeek": 1164,
     "timeMonth": 1104,
     "timeYear": 1079,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 3
+    }
   },
   {
     "name": "Vetchef (BE)",
@@ -236,18 +238,20 @@
     "url": "$VETCHEF_FR_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vetchef-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1262,
-    "timeDay": 1433,
+    "time": 1263,
+    "timeDay": 1362,
     "timeWeek": 1288,
     "timeMonth": 1226,
     "timeYear": 1200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 1
+    }
   },
   {
     "name": "Vetchef (LU)",
