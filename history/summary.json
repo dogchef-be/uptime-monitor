@@ -197,19 +197,19 @@
     "url": "$DOGOCOOK_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dogocook",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1091,
-    "timeDay": 1292,
-    "timeWeek": 1164,
-    "timeMonth": 1104,
-    "timeYear": 1079,
+    "time": 1090,
+    "timeDay": 1076,
+    "timeWeek": 1126,
+    "timeMonth": 1097,
+    "timeYear": 1078,
     "dailyMinutesDown": {
-      "2025-08-28": 3
+      "2025-08-28": 8
     }
   },
   {
@@ -238,19 +238,19 @@
     "url": "$VETCHEF_FR_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vetchef-fr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1263,
-    "timeDay": 1362,
-    "timeWeek": 1288,
-    "timeMonth": 1226,
+    "time": 1262,
+    "timeDay": 1191,
+    "timeWeek": 1258,
+    "timeMonth": 1220,
     "timeYear": 1200,
     "dailyMinutesDown": {
-      "2025-08-28": 1
+      "2025-08-28": 7
     }
   },
   {
