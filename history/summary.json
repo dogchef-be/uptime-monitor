@@ -254,19 +254,19 @@
     "url": "$VETCHEF_LU_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vetchef-lu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1259,
-    "timeDay": 1573,
-    "timeWeek": 2694,
-    "timeMonth": 1544,
+    "timeDay": 1380,
+    "timeWeek": 2505,
+    "timeMonth": 1533,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-08-28": 0
+      "2025-08-28": 7
     }
   }
 ]
