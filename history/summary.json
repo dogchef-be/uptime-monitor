@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.95%",
     "time": 628,
     "timeDay": 230,
     "timeWeek": 219,
     "timeMonth": 279,
-    "timeYear": 255,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2025-05-22": 262
     }
@@ -29,12 +29,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "100.00%",
     "time": 314,
     "timeDay": 458,
     "timeWeek": 377,
     "timeMonth": 388,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 136,
     "timeWeek": 178,
@@ -65,12 +65,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "100.00%",
     "time": 594,
     "timeDay": 659,
     "timeWeek": 528,
     "timeMonth": 540,
-    "timeYear": 639,
+    "timeYear": 641,
     "dailyMinutesDown": {}
   },
   {
@@ -164,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "catchef",
     "status": "up",
-    "uptime": "90.46%",
+    "uptime": "90.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -188,18 +188,20 @@
     "url": "$DOGOCOOK_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dogocook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1089,
-    "timeDay": 972,
-    "timeWeek": 1054,
-    "timeMonth": 1073,
-    "timeYear": 1066,
-    "dailyMinutesDown": {}
+    "time": 1088,
+    "timeDay": 757,
+    "timeWeek": 990,
+    "timeMonth": 1056,
+    "timeYear": 1065,
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "Vetchef (BE)",
