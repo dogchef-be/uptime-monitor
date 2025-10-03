@@ -1,7 +1,7 @@
 url: https://www.dogchef.com/en/start?$BF
-status: down
-code: 503
-responseTime: 13
-lastUpdated: 2025-10-03T19:01:30.913Z
+status: up
+code: 200
+responseTime: 110
+lastUpdated: 2025-10-03T19:10:12.460Z
 startTime: 2021-05-08T09:22:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
