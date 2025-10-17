@@ -1,7 +1,7 @@
 url: $ERP_URL?$BF
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-17T13:31:56.757Z
+status: up
+code: 200
+responseTime: 581
+lastUpdated: 2025-10-17T13:53:07.592Z
 startTime: 2022-04-04T12:04:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
