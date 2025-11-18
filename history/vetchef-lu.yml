@@ -1,7 +1,7 @@
 url: $VETCHEF_LU_URL?$BF
-status: down
-code: 500
-responseTime: 5043
-lastUpdated: 2025-11-18T14:56:40.158Z
+status: up
+code: 200
+responseTime: 1217
+lastUpdated: 2025-11-18T15:05:04.458Z
 startTime: 2021-05-08T10:04:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
