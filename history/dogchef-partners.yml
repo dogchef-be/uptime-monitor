@@ -1,7 +1,7 @@
 url: $DOGCHEF_PARTNERS_URL?$BF
-status: down
-code: 500
-responseTime: 70
-lastUpdated: 2025-11-18T13:06:52.266Z
+status: up
+code: 200
+responseTime: 1089
+lastUpdated: 2025-11-18T14:50:15.764Z
 startTime: 2021-05-07T10:48:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
