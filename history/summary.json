@@ -6,9 +6,9 @@
     "slug": "dogchef",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 520,
     "timeDay": 195,
@@ -16,7 +16,6 @@
     "timeMonth": 199,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-11-18": 14,
       "2025-05-22": 262
     }
   },
@@ -27,18 +26,16 @@
     "slug": "dogchef-my-account",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 190,
     "timeWeek": 264,
     "timeMonth": 365,
     "timeYear": 345,
-    "dailyMinutesDown": {
-      "2025-11-18": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dogchef (Signup)",
@@ -47,18 +44,16 @@
     "slug": "dogchef-signup",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 94,
     "timeWeek": 118,
     "timeMonth": 142,
     "timeYear": 234,
-    "dailyMinutesDown": {
-      "2025-11-18": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dogchef (API)",
@@ -67,37 +62,35 @@
     "slug": "dogchef-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
     "timeDay": 333,
     "timeWeek": 416,
     "timeMonth": 525,
     "timeYear": 660,
-    "dailyMinutesDown": {
-      "2025-11-18": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dogchef partners",
     "url": "$DOGCHEF_PARTNERS_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dogchef-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1193,
-    "timeDay": 691,
-    "timeWeek": 802,
-    "timeMonth": 828,
-    "timeYear": 1069,
+    "time": 1191,
+    "timeDay": 612,
+    "timeWeek": 750,
+    "timeMonth": 808,
+    "timeYear": 1066,
     "dailyMinutesDown": {
-      "2025-11-18": 14,
+      "2025-11-18": 0,
       "2025-05-15": 32
     }
   },
@@ -107,10 +100,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "erp",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 599,
     "timeDay": 491,
@@ -118,7 +111,6 @@
     "timeMonth": 674,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-11-18": 14,
       "2025-10-17": 21,
       "2025-10-01": 15,
       "2025-03-10": 17
@@ -152,17 +144,16 @@
     "slug": "dogpit-tasks",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 602,
     "timeDay": 456,
     "timeWeek": 597,
     "timeMonth": 555,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-11-18": 14,
       "2025-06-12": 129
     }
   },
@@ -173,9 +164,9 @@
     "slug": "catchef",
     "status": "up",
     "uptime": "90.74%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 355,
     "timeDay": 229,
@@ -183,7 +174,6 @@
     "timeMonth": 275,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-11-18": 14,
       "2025-05-07": 41,
       "2025-04-18": 116,
       "2025-04-17": 19,
@@ -215,19 +205,19 @@
     "url": "$VETCHEF_BE_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vetchef-be",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 1339,
-    "timeDay": 1098,
-    "timeWeek": 1283,
-    "timeMonth": 1273,
-    "timeYear": 1293,
+    "time": 1337,
+    "timeDay": 872,
+    "timeWeek": 1174,
+    "timeMonth": 1241,
+    "timeYear": 1290,
     "dailyMinutesDown": {
-      "2025-11-18": 27,
+      "2025-11-18": 28,
       "2025-04-29": 33,
       "2025-04-28": 2
     }
@@ -239,17 +229,17 @@
     "slug": "vetchef-fr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 1249,
     "timeDay": 868,
     "timeWeek": 1073,
     "timeMonth": 1094,
     "timeYear": 1186,
     "dailyMinutesDown": {
-      "2025-11-18": 33
+      "2025-11-18": 19
     }
   },
   {
@@ -257,19 +247,19 @@
     "url": "$VETCHEF_LU_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vetchef-lu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.23%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1253,
-    "timeDay": 851,
-    "timeWeek": 1045,
-    "timeMonth": 1234,
-    "timeYear": 1240,
+    "time": 1251,
+    "timeDay": 651,
+    "timeWeek": 945,
+    "timeMonth": 1200,
+    "timeYear": 1236,
     "dailyMinutesDown": {
-      "2025-11-18": 40
+      "2025-11-18": 41
     }
   }
 ]
