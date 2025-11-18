@@ -1,7 +1,7 @@
 url: $DOGOCOOK_URL?$BF
-status: down
-code: 500
-responseTime: 109
-lastUpdated: 2025-11-18T13:06:57.036Z
+status: up
+code: 200
+responseTime: 1127
+lastUpdated: 2025-11-18T14:42:14.111Z
 startTime: 2022-10-12T20:28:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
