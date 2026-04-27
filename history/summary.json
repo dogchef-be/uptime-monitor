@@ -43,18 +43,20 @@
     "url": "https://www.dogchef.com/en/start?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/www.dogchef.com.ico",
     "slug": "dogchef-signup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 238,
-    "timeWeek": 212,
-    "timeMonth": 167,
+    "timeDay": 139,
+    "timeWeek": 190,
+    "timeMonth": 163,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-27": 0
+    }
   },
   {
     "name": "Dogchef (API)",
@@ -168,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "catchef",
     "status": "up",
-    "uptime": "91.55%",
+    "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
