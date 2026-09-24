@@ -148,19 +148,20 @@
     "url": "$DOGPIT_TASKS_URL?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dogpit-tasks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 806,
-    "timeWeek": 1114,
-    "timeMonth": 742,
-    "timeYear": 586,
+    "time": 610,
+    "timeDay": 445,
+    "timeWeek": 985,
+    "timeMonth": 722,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2026-02-02": 18
+      "2026-02-02": 18,
+      "2026-09-24": 1
     }
   },
   {
