@@ -19,7 +19,7 @@ jobs:
       contents: read
     env:
       GH_TOKEN: ${{ github.token }}
-      SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
       CLOUDFLARE_OBSERVABILITY_TOKEN: ${{ secrets.CLOUDFLARE_OBSERVABILITY_TOKEN }}
       HUNG_REQUESTS_THRESHOLD: 10
     steps:

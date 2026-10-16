@@ -5,7 +5,7 @@ set -eo pipefail
 exec 3>&2 >/dev/null 2>&1
 trap '[ $? -eq 0 ] || echo "check failed" >&3' EXIT
 
-: "${CLOUDFLARE_OBSERVABILITY_TOKEN:?}"
+: "${CLOUDFLARE_OBSERVABILITY_TOKEN:?}" "${NOTIFICATION_SLACK_WEBHOOK_URL:?}"
 threshold=${HUNG_REQUESTS_THRESHOLD:-10}
 account=03095c60a92087ee7852931e8f110719
 to=$(( $(date +%s) * 1000 ))
@@ -37,20 +37,17 @@ count() {
 
 post() {
   local response
-  response=$(curl -s https://slack.com/api/chat.postMessage \
-    -H "Authorization: Bearer ${SLACK_TOKEN}" \
-    -H 'Content-Type: application/json; charset=utf-8' \
-    -d "$(jq -n --arg text "$1" '{channel: "it_tests", text: $text}')") || return 1
-  [ "$(jq -r .ok <<< "$response")" = true ]
+  response=$(curl -s --max-time 30 -X POST -H 'Content-Type: application/json' \
+    -d "$(jq -n --arg text "$1" '{text: $text}')" "$NOTIFICATION_SLACK_WEBHOOK_URL") || return 1
+  [ "$response" = ok ]
 }
 
-title="Hung page requests"
 failures=""
 for worker in dogchef-prod catchef-prod; do
   if n=$(count "$worker"); then
-    [ "$n" -le "$threshold" ] || failures+="${worker}: ${n} in the last hour (threshold ${threshold})"$'\n'
+    [ "$n" -le "$threshold" ] || failures+="🟥 Hung page requests on ${worker}: ${n} in the last hour (threshold ${threshold})"$'\n'
   else
-    failures+="${worker}: Cloudflare query failed"$'\n'
+    failures+="🟥 Hung page requests on ${worker}: Cloudflare query failed"$'\n'
   fi
 done
 
@@ -62,12 +59,12 @@ previous=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow "$workflow" \
 run_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
 
 if [ -n "$failures" ]; then
-  if [ "$previous" != failure ] && ! post "$(printf ':rotating_light: %s\n```\n%s```\n%s' "$title" "$failures" "$run_url")"; then
+  if [ "$previous" != failure ] && ! post "${failures}${run_url}"; then
     gh run cancel "$GITHUB_RUN_ID" --repo "$GITHUB_REPOSITORY" || true
     sleep 60
   fi
   exit 1
 fi
 if [ "$previous" = failure ]; then
-  post "$(printf ':white_check_mark: %s recovered\n%s' "$title" "$run_url")" || exit 1
+  post "$(printf '🟩 Hung page requests back to normal\n%s' "$run_url")" || exit 1
 fi
