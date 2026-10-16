@@ -8,7 +8,7 @@ trap '[ $? -eq 0 ] || echo "check failed" >&3' EXIT
 : "${CLOUDFLARE_OBSERVABILITY_TOKEN:?}"
 threshold=${HUNG_REQUESTS_THRESHOLD:-10}
 account=03095c60a92087ee7852931e8f110719
-to=$(( $(date +%s) / 3600 * 3600 * 1000 ))
+to=$(( $(date +%s) * 1000 ))
 from=$(( to - 3600000 ))
 
 count() {
