@@ -1,4 +1,4 @@
-name: hung-requests-check
+name: Hung Requests CI
 
 on:
   schedule:
