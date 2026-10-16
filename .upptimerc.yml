@@ -58,6 +58,16 @@ sites:
     url: $VETCHEF_LU_URL?$BF
     headers:
       - $USER_AGENT
+  - name: Dogchef hung requests
+    url: https://www.dogchef.com/__health/hung-requests?$BF
+    headers:
+      - $USER_AGENT
+      - "X-Health-Token: $HUNG_REQUESTS_HEALTH_TOKEN"
+  - name: Catchef hung requests
+    url: https://www.catchef.com/__health/hung-requests?$BF
+    headers:
+      - $USER_AGENT
+      - "X-Health-Token: $HUNG_REQUESTS_HEALTH_TOKEN"
 
 status-website:
   baseUrl: /uptime-monitor
