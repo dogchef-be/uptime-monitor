@@ -1,7 +1,7 @@
 url: https://www.dogchef.com/__health/hung-requests?$BF
-status: up
-code: 200
-responseTime: 660
-lastUpdated: 2026-10-18T00:49:19.258Z
+status: down
+code: 503
+responseTime: 593
+lastUpdated: 2026-10-18T10:16:32.323Z
 startTime: 2026-10-16T17:27:49.516Z
 generator: Upptime <https://github.com/upptime/upptime>
