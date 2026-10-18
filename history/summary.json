@@ -279,18 +279,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dogchef.com.ico",
     "slug": "dogchef-hung-requests",
     "status": "down",
-    "uptime": "97.25%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.25%",
+    "uptime": "94.94%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "94.94%",
+    "uptimeMonth": "94.94%",
+    "uptimeYear": "94.94%",
     "time": 691,
     "timeDay": 745,
     "timeWeek": 691,
     "timeMonth": 691,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2026-10-17": 50
+      "2026-10-17": 83,
+      "2026-10-18": 10
     }
   },
   {
