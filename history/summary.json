@@ -278,20 +278,20 @@
     "url": "https://www.dogchef.com/__health/hung-requests?$BF",
     "icon": "https://icons.duckduckgo.com/ip3/www.dogchef.com.ico",
     "slug": "dogchef-hung-requests",
-    "status": "down",
-    "uptime": "93.21%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "93.21%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "93.21%",
-    "time": 679,
-    "timeDay": 709,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "status": "up",
+    "uptime": "91.38%",
+    "uptimeDay": "83.41%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "91.38%",
+    "uptimeYear": "91.38%",
+    "time": 691,
+    "timeDay": 711,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2026-10-17": 83,
-      "2026-10-18": 101
+      "2026-10-18": 155
     }
   },
   {
